@@ -1,0 +1,162 @@
+
+#Output
+# Indian Institutte of Technology Guwahati
+
+# Programme Duration: 4 years                      Semesters:Eight(8)
+
+# Name:  TEJAS PRASHANT KHAIRNAR                    Roll Number: 180101081
+
+# Semester     Course          CourseName                                          Cr
+# 1             CH101           Chemistry                                         AB
+# 1             MA101           Mathematics-1                                     AB
+# 1             HS100           English Communication                             BC
+# 1             EE101           Basic Electronics                                 DD
+# 1             ME111           Engineering Drawing                               AB
+# 1             PH101           Physics-1                                         BB
+# 1             PH110           Physics Lab/ME110 Workshop                        BC
+# 1             CH110           Chemistry Lab                                     CC
+# 2             ME110           Workshop/PH110 Physics Lab                        CD
+# 2             MA102           Mathematics-2                                     CD
+# 2             CS110           Computing Lab                                     BB
+# 2             PH102           Physics-2                                         CD
+# 2             EE110           Basic Electronics Laboratory                      CC
+# 2             CS101           Introduction to Computing                         BB
+# 2             BT101           Introductory Biology                              AB
+# 2             SA101           Students Activity Course-1                        CD
+# 2             ME101           Engineering Mechanics                             BB
+# 3             MA222           Elementary Number Theory and Algebra              DD
+# 3             CS201           Discrete Mathematics                              CC
+# 3             CS203           Algorithms and Data Structures                    CC
+# 3             SA201           Students Activity Course-2                        BC
+# 3             MA225           Probability Theory and Random Processes           CC
+# 3             XX103M          Minor-1                                           DD
+# 3             CS242           System Software Lab                               DD
+# 3             CS221           Digital Design                                    BB
+# 3             CS204           Algorithms and Data Structures Lab                CC
+# 4             CS205           Formal Languages Automata Theory and Computation  BB
+# 4             HS101           HSS1-1                                            CD
+# 4             SA301           Students Activity Course-3                        BC
+# 4             XX104M          Minor-2                                           CC
+# 4             CS246           Database Management Systems Lab                   BB
+# 4             CS245           Database Management Systems                       BC
+# 4             CS224           Hardware Lab                                      AA
+# 4             CS223           Computer Architecture and Organization            BB
+# 4             CS207           Design and Analysis of Algorithms                 CD
+# 5             MA321           Optimization                                      BB
+# 5             SA401           Students Activity Course-4                        CC
+# 5             XX105M          Minor-3                                           AA
+# 5             CS341           Computer Networks                                 BB
+# 5             HS102           HSS1-2                                            AB
+# 5             CS501           Departmental Elective 5.1                         BB
+# 5             CS342           Computer Networks Lab                             BC
+# 5             CS343           Operating Systems                                 AA
+# 5             CS344           Operating Systems Lab                             BB
+# 6             CS405           Departmental Elective Lab 6.3                     AB
+# 6             CS404           Departmental Elective 6.2                         AA
+# 6             CS403           Departmental Elective 6.1                         DD
+# 6             XX101M          Minor-4                                           AA
+# 6             CS345           Software Engineering                              AA
+# 6             CS346           Software Engineering Lab                          CD
+# 6             CS348           Implementation of Programming Languages Lab       CC
+# 6             CS361           Machine Learning                                  DD
+# 7             HS201           HSS-2-1                                           CC
+# 7             XX102M          Minor 5                                           AA
+# 7             CS401           Elective 7.2                                      AA
+# 7             OE102           Open Elective 2/CS101 Elective 7.1                CD
+# 7             OE101           Open Elective 1                                   CD
+# 7             CS498           BTP Phase - 1                                     BB
+# 8             CS402           Elective 8.1                                      CD
+# 8             OE202           Open Elective 4                                   BC
+# 8             OE201           Open Elective 3                                   BB
+# 8             CS499           BTP Phase - 2                                     AA
+# 8             HS202           HSS-2-2                                           CC
+# Semester: 1 SPI: 7.58
+# Semester: 2 SPI: 6.81
+# Semester: 3 SPI: 5.54
+# Semester: 4 SPI: 7.09
+# Semester: 5 SPI: 8.59
+# Semester: 6 SPI: 7.21
+# Semester: 7 SPI: 7.43
+# Semester: 8 SPI: 7.67
+
+# Semester: 1 CPI: 7.58
+# Semester: 2 CPI: 7.20
+# Semester: 3 CPI: 6.60
+# Semester: 4 CPI: 6.73
+# Semester: 5 CPI: 7.09
+# Semester: 6 CPI: 7.11
+# Semester: 7 CPI: 7.16
+# Semester: 8 CPI: 7.21
+# Total CPI: 7.21
+
+# For semester 1 completed all courses : False
+# For semester 2 completed all courses : False
+# For semester 3 completed all courses : True
+# For semester 4 completed all courses : True
+# For semester 5 completed all courses : False
+# For semester 6 completed all courses : False
+# For semester 7 completed all courses : False
+# For semester 8 completed all courses : False
+
+# For semester 1 completed all elective : True
+# For semester 2 completed all elective : True
+# For semester 3 completed all elective : True
+# For semester 4 completed all elective : True
+# For semester 5 completed all elective : False
+# For semester 6 completed all elective : False
+# For semester 7 completed all elective : False
+# For semester 8 completed all elective : False
+
+# For semester 1 completed all Minor: True
+# For semester 2 completed all Minor: True
+# For semester 3 completed all Minor: True
+# For semester 4 completed all Minor: True
+# For semester 5 completed all Minor: True
+# For semester 6 completed all Minor: True
+# For semester 7 completed all Minor: True
+# For semester 8 completed all Minor: True
+
+# For semester 1 completed all Open Electives: True
+# For semester 2 completed all Open Electives: True
+# For semester 3 completed all Open Electives: True
+# For semester 4 completed all Open Electives: True
+# For semester 5 completed all Open Electives: True
+# For semester 6 completed all Open Electives: True
+# For semester 7 completed all Open Electives: False
+# For semester 8 completed all Open Electives: False
+
+# For semester 1 completed all HSS: True
+# For semester 2 completed all HSS: True
+# For semester 3 completed all HSS: False
+# For semester 4 completed all HSS: False
+# For semester 5 completed all HSS: False
+# For semester 6 completed all HSS: True
+# For semester 7 completed all HSS: False
+# For semester 8 completed all HSS: False
+
+# For semester 1 completed all SA: True
+# For semester 2 completed all SA: False
+# For semester 3 completed all SA: False
+# For semester 4 completed all SA: False
+# For semester 5 completed all SA: False
+# For semester 6 completed all SA: True
+# For semester 7 completed all SA: True
+# For semester 8 completed all SA: True
+
+# For semester 1 Passed: True
+# For semester 2 Passed: True
+# For semester 3 Passed: True
+# For semester 4 Passed: True
+# For semester 5 Passed: True
+# For semester 6 Passed: True
+# For semester 7 Passed: True
+# For semester 8 Passed: True
+
+# For semester 1 SA Passed: True
+# For semester 2 SA Passed: True
+# For semester 3 SA Passed: True
+# For semester 4 SA Passed: True
+# For semester 5 SA Passed: True
+# For semester 6 SA Passed: True
+# For semester 7 SA Passed: True
+# For semester 8 SA Passed: True

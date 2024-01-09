@@ -1,0 +1,1 @@
+LOAD DATA LOCAL INFILE '/home/divyeshvankar/Desktop/grade18.csv' INTO TABLE grade18 FIELDS TERMINATED BY',' ENCLOSED BY '"' LINES TERMINATED BY '\n';
